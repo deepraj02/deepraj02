@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help ... with Machine Learning
 - 💬 Ask me about ...Myself😁
-- 📫 How to reach me: [Website](https://sites.google.com/view/deeprajbaidya)
+- 📫 How to reach me: [deeprajbaidya.com](https://sites.google.com/view/deeprajbaidya)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->I Love Coding...
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+1.  Password Generator[#14](https://github.com/deepraj02/PassWord_Generator-GUI-) in [deepraj02/deepraj02](https://github.com/deepraj02/deepraj02)
 2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
