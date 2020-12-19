@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 1.  Password Generator in [deepraj02/deepraj02](https://github.com/deepraj02/PassWord_Generator-GUI-)
 2.  QR-code Generator in [deepraj02/deepraj02](https://github.com/deepraj02/QR_Code_Generator-GUI-)
 3.  Digital Clock in [deepraj02/deepraj02](https://github.com/deepraj02/Digital_Clock)
-4. 🎉 Merged PR  in [deepraj02/deepraj02](https://github.com/MKBHD-alpha/AI-Assistant-with-Python)
+4. 🎉 Merged PR  in [MKBHD-alpha/MKBHD-alpha](https://github.com/MKBHD-alpha/AI-Assistant-with-Python)
 <!--END_SECTION:activity-->
 
 </details>
