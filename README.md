@@ -14,9 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->I Love Coding...
 
-## I'm a Student Developer.
+## I'm a Student Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Student Dev's
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Football
+
+### Spotify Playing 🎧
+
+
+
+
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
