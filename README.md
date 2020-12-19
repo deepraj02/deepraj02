@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a ...Student
 - 🌱 I’m currently learning ... Java, C++, Ethical Hacking
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help ... with Machine Learning
 - 💬 Ask me about ...Myself😁
 - 📫 How to reach me: [deeprajbaidya.com](https://sites.google.com/view/deeprajbaidya)
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Student Dev's
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Football
 
 
