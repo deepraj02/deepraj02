@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 
 ### Connect with me:
-[<img align="left" alt="" width="22px" src="https://sites.google.com/view/deeprajbaidya/"/>][website]
+[<img align="left" alt="https://sites.google.com/view/deeprajbaidya/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
