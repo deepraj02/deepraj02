@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 2.  QR-code Generator in [deepraj02/deepraj02](https://github.com/deepraj02/QR_Code_Generator-GUI-)
 3.  Digital Clock in [deepraj02/deepraj02](https://github.com/deepraj02/Digital_Clock)
 4. 🎉 Merged PR  in [MKBHD-alpha/MKBHD-alpha](https://github.com/MKBHD-alpha/AI-Assistant-with-Python)
+5. PR Periodic Table Elements--GUI Version in [bananaman441/periodictableGUI](https://github.com/deepraj02/periodictableGUI)
 <!--END_SECTION:activity-->
 
 </details>
