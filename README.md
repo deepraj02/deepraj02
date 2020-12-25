@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepraj02&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepraj02 &theme=onedark" alt="deepraj02" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepraj02&theme=onedark" alt="deepraj02" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/deepraj022" target="blank"><img src="https://img.shields.io/twitter/follow/deepraj022?logo=twitter&style=for-the-badge" alt="deepraj022" /></a> </p>
 
