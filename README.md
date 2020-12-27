@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with [PassWord-Gen_GUI](https://github.com/deepraj02/PassWord_Generator-GUI-)
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/deeprajbaidya/home](https://deepraj02.github.io)
+- 👨‍💻 All of my projects are available at [My Website](https://deepraj02.github.io)
 
 - 💬 Ask me about **Python, Web Development,C++**
 
 - 📫 How to reach me **deeprajbaidya@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/view/deeprajbaidya/about](https://deepraj02.github.io)
+- 📄 Know about my experiences [My Website](https://deepraj02.github.io)
 
 - ⚡ Fun fact **I Love Playing ⚽ Football**
 
