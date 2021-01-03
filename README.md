@@ -1,4 +1,4 @@
-# Hi, I am Deepraj Baidya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1> 
+# <center> Hi, I am Deepraj Baidya </center>  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1> 
 <h3 align="center">A passionate Student DEV..😎😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepraj02&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj02" /> </p>
