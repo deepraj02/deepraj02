@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://deepraj02.github.io)
 
-- 💬 Ask me about **Python, Web Development,C++**
-
 - 📫 How to reach me **deeprajbaidya@gmail.com**
 
 - 📄 Know about my experiences [My Website](https://deepraj02.github.io)
