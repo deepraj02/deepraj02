@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Periodic Elements GUI](https://github.com/deepraj02/PeriodicTable_GUI)
 
-- 🌱 I’m currently learning **Frameworks, Languages, Ethical Hacking Machine Learning and Android Development.**
+- 🌱 I’m currently learning **Frameworks, Languages, Ethical Hacking Machine Learning and Android and Web Development.**
 
 - 🤝 I’m looking for help with [PassWord-Gen_GUI](https://github.com/deepraj02/PassWord_Generator-GUI-)
 
 - 👨‍💻 All of my projects are available at [My Website](https://deepraj02.github.io)
 
-- 📫 How to reach me **deeprajbaidya@gmail.com**
+- 📫 How to reach me **[My Website](https://deepraj02.github.io)**
 
 - 📄 Know about my experiences [My Website](https://deepraj02.github.io)
 
