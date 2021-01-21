@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [PassWord-Gen_GUI](https://github.com/deepraj02/PassWord_Generator-GUI-)
 
-- 👨‍💻 All of my projects are available at [My Website](https://deepraj02.github.io)
+- 👨‍💻  All of my projects are available at [My Website](https://deepraj02.github.io)
 
 - 📫 How to reach me **[My Website](https://deepraj02.github.io)**
 
