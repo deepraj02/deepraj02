@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [My Website](https://deepraj02.github.io)
 
-- ⚡ Fun fact  I Love Coding , Playing ⚽ Football and Watching Cartoons🤗.
+- ⚡ Fun fact  I Love Coding , Playing ⚽ Football and Watching Cartoons🤗
 
 
 
