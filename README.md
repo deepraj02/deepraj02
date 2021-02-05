@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepraj02" alt="deepraj02" /></a> </p>
 
-- 🔭 I’m currently working on  [Periodic Elements GUI](https://github.com/deepraj02/PeriodicTable_GUI)
+- 🔭 I’m currently working on  [Libarary Management](https://github.com/deepraj02/LibraryManagement_Database)
 
 - 🌱 I’m currently learning **Frameworks, Languages, Ethical Hacking Machine Learning and Android and Web Development.**
 
