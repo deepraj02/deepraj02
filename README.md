@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepraj02&show_icons=true&locale=en&theme=synthwave" alt="deepraj02" /></p>
 
-# HAPPY_CODING
+# HAPPY CODING
