@@ -39,4 +39,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepraj02&show_icons=true&locale=en&theme=synthwave" alt="deepraj02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepraj02&theme=synthwave" alt="deepraj02" /></p>
