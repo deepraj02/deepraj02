@@ -95,6 +95,8 @@ Check out my [**`featured repos`**](https://github.com/deepraj02?tab=repositorie
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj02&repo=Registration-Form-in-Tkinter&show_icons=true&theme=radical" />
   </a>
 </p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepraj02&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Links:
