@@ -55,7 +55,7 @@ Check out my [**`featured repos`**](https://github.com/deepraj02?tab=repositorie
 - ⚡ Fun fact: I'm a **`All-Rounder 😅`**
 - 💬 Ask me anything about **`Python`** in general
 - 📧 Email id? [deeprajbaidya@gmail.com](bdeeprajrkm1@gmail.com)
-  <!-- - 📄  Link to my [RESUME](https://drive.google.com/file/d/1mN2AHxTlXZ8mL7DXWp1GAt5c4FuYtBuO/view) -->
+- 🌐 Know More about ME [WEBSITE](https://deepraj02.github.io/) 
 
     <br>
 
@@ -101,7 +101,7 @@ Check out my [**`featured repos`**](https://github.com/deepraj02?tab=repositorie
 
 ## Social Links:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/deepraj-baidya-28a743173/) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/deeprajbaidya02) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/profile.php?id=100012164535795) [<img src="https://github.com/deepraj02/deepraj02/blob/main/spotify.png" width="35" height="35"/>](https://open.spotify.com/user/2xksjqes3nkmx3ibh9l58w77y?si=664a9ed56b804b1d) [<img src="https://github.com/deepraj02/deepraj02/blob/main/Dis.png" width="35" height="35"/>](https://discord.gg/qYXNvuM5)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/deepraj-baidya-28a743173/) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/deeprajbaidya02) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/profile.php?id=100012164535795) [<img src="https://github.com/deepraj02/deepraj02/blob/main/spotify.png" width="35" height="35"/>](https://open.spotify.com/user/2xksjqes3nkmx3ibh9l58w77y?si=664a9ed56b804b1d) [<img src="https://github.com/deepraj02/deepraj02/blob/main/Dis.png" width="35" height="35"/>](https://discord.gg/qYXNvuM5) [<img src="https://github.com/deepraj02/deepraj02/blob/main/webs.png" width="35" height="35"/>](https://deepraj02.github.io/)
 
 ## Have a great day ☺️
 
