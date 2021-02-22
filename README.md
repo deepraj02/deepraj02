@@ -1,4 +1,4 @@
-### Hi there <img src="Hi.gif" height ="20px"  width="25px">, I'm Deepraj
+# Hi there <img src="Hi.gif" height ="20px"  width="25px">, I'm Deepraj
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepraj02&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj02" /> </p>
 
@@ -21,7 +21,6 @@ Check out my [**`featured repos`**](https://github.com/deepraj02?tab=repositorie
 #### Web Frameworks and tools I use:-
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
@@ -104,7 +103,7 @@ Check out my [**`featured repos`**](https://github.com/deepraj02?tab=repositorie
 
 ## Social Links:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/deepraj-baidya-28a743173/) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/deeprajbaidya02) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/profile.php?id=100012164535795) [<img src="https://raw.githubusercontent.com/deepraj02/deepraj02/spotify.png" width="35" height="35"/>](https://open.spotify.com/user/2xksjqes3nkmx3ibh9l58w77y?si=664a9ed56b804b1d) [<img src="https://raw.githubusercontent.com/deepraj02/deepraj02/Dis.png" width="35" height="35"/>](https://discord.gg/qYXNvuM5)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/deepraj-baidya-28a743173/) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/deeprajbaidya02) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/profile.php?id=100012164535795) [<img src="file:///C:/Users/91762/Desktop/Spotify_icon-icons.com_66783.svg" width="35" height="35"/>](https://open.spotify.com/user/2xksjqes3nkmx3ibh9l58w77y?si=664a9ed56b804b1d) [<img src="https://raw.githubusercontent.com/deepraj02/deepraj02/Dis.png" width="35" height="35"/>](https://discord.gg/qYXNvuM5)
 
 ## Have a great day ☺️
 
