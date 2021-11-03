@@ -68,9 +68,6 @@ Check out my [**`featured repos`**](https://github.com/deepraj02?tab=repositorie
 <img src="https://github-readme-stats.vercel.app/api?username=deepraj02&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
 
 <p>
-  <a href="https://github.com/deepraj02/LibraryManagement_Database">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj02&repo=LibraryManagement_Database&show_icons=true&theme=radical" />
-  </a>
   <a href="https://github.com/deepraj02/Improved-computing-machine-Calc-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj02&repo=Improved-computing-machine-Calc-&show_icons=true&theme=radical" />
   </a>
