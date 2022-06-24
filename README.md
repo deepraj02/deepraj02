@@ -1,7 +1,6 @@
 [![MasterHead](https://github.com/deepraj02/readmePhoto/blob/main/Violet%20Colorful%20Gradient%20Geometric%20Line%20And%20Shapes%20Innovation%20Festival%20Banner.png)](https://deeprajbaidya.tech)
 
-<h1 align="center">Hi 👋, I'm Deepraj Baidya</h1>
-<h3 align="center">Footballer | Android Developer | CS Undergrad</h3>
+<h1 align="center">Footballer | Android Developer | CS Undergrad</h3>
 
 
 # 💫About Me :
