@@ -10,9 +10,11 @@
 💬 Ask me about Football<br>
 ⚡ Fun fact : Los Blancos for life 🤍<br>
 
+
+
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Wza9JVnWXn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/infamousdotexe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeprajbaidya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/deepraj022) 
-
+<a href="https://app.daily.dev/deepraj_baidya1"><img align="right" src="https://api.daily.dev/devcards/95f59c463876421baad8f474b41f76f4.png?r=d20" width="300" alt="Deepraj Baidya's Dev Card"/></a>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💻Tech Stack
