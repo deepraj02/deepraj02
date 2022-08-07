@@ -38,7 +38,7 @@
 
 <br>
 
-[![Aritra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rajdip019&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Rajdip019)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deepraj02&theme=rogue)](https://github.com/deepraj02)
 
 ## 🏆GitHub Trophies
 <br />
