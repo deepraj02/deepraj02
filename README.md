@@ -61,7 +61,7 @@
 <td><img src="https://random-memer.herokuapp.com/" />
 </td>
 <td>
-<img src="https://api.daily.dev/devcards/95f59c463876421baad8f474b41f76f4.png?r=d20"/>
+<img src="https://api.daily.dev/devcards/95f59c463876421baad8f474b41f76f4.png?r=d20"width="400"/>
 </td>
 </tr>
 </table>
