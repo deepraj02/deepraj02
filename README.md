@@ -42,7 +42,7 @@
 </p>
 
 ---
-[![Deepraj's Github Graph](https://activity-graph.herokuapp.com/graph?username=deepraj02&theme=merko&hide_border=false)](https://github.com/Rajdip019)
+[![Deepraj's Github Graph](https://activity-graph.herokuapp.com/graph?username=deepraj02&theme=merko&hide_border=false)](https://github.com/deepraj02)
 
 
 </div>
