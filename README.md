@@ -64,12 +64,13 @@ flu... </p> <br/> <br/>
 </p>
   
   
-  
+<!--   
 ## 🏆 GitHub Trophies
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=deepraj02&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
+ -->
+  <img src="https://holopin.io/api/user/board?user=Klauss" alt="MasterHead"  />
 ---
 <p align="center">
   <a href="https://github.com/deepraj02/github-readme-activity-graph">
