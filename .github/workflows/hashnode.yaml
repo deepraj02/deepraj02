@@ -1,13 +1,13 @@
-name: "Adding Blogs"
+name: "📚 Blog Updater"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron:  "0 * * * *" # Runs every hour, on the hour
+    - cron: '0 */24 * * *' # Runs Every 24 Hours
 
 jobs:
-  fetch_blogs:
-    name: "Update With Latest Blogs"
+  update_blogs:
+    name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
       - name: "📥  Fetching Repository Contents"
@@ -16,9 +16,9 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          USERNAME: "theLocalDev" # Hashnode Username
+          USERNAME: 'theLocalDev' # Hashnode Username
           COUNT: 4 # MAX Visisble
-          STYLE: "blog-alternate"
-          BLOG_URL: "https://thelocaldev.hashnode.dev/"
+          STYLE: "blog-left"
+          BLOG_URL: "https://blogs.deeprajbaidya.co/"
         env:
-          GITHUB_TOKEN: ${{ secrets.HASHNODE_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}`
