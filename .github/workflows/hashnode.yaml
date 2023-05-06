@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: 'theLocalDev' # Hashnode Username
           COUNT: 4 # MAX Visisble
-          STYLE: "blog-left"
+          STYLE: "blog-alternate"
           BLOG_URL: "https://blogs.deeprajbaidya.co/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}`
