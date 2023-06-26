@@ -71,15 +71,9 @@ flu... </p> <br/> <br/>
 </p>
  -->
   <img src="https://holopin.io/api/user/board?user=Klauss" alt="MasterHead"  />
----
-<p align="center">
-  <a href="https://github.com/deepraj02/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=deepraj02&theme=dracula" alt="Deepraj's Github Activity Graph">
-  </a>
-  <br>
-  <em>Deepraj's Github Activity Graph</em>
-</p>
 
+
+[![Deepraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepraj02&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 </div>
