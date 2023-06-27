@@ -22,29 +22,24 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blogs.deeprajbaidya.co//automate-flutter-package-publishing" title="Streamlining Your Flutter Package Publishing Workflow: Automating with GitHub Actions🤯"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SyvsTmuuZyM/upload/297361cb2a199ababf3e3d88dfae07c5.jpeg" alt="Streamlining Your Flutter Package Publishing Workflow: Automating with GitHub Actions🤯" width="250px" align="left" /></a>
+<a href="https://blogs.deeprajbaidya.co//build-and-push-your-first-docker-image-to-docker-hub" title="Build and Push your First Docker Image to Docker Hub 🐳"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HSACbYjZsqQ/upload/8aadb1054c913b8474bbd9da3dd944ff.jpeg" alt="Build and Push your First Docker Image to Docker Hub 🐳" width="250px" align="left" /></a>
+<a href="https://blogs.deeprajbaidya.co//build-and-push-your-first-docker-image-to-docker-hub" title="Build and Push your First Docker Image to Docker Hub 🐳"><strong>Build and Push your First Docker Image to Docker Hub 🐳</strong></a>
+<br/> In this journey, we will explore the intricacies of building Docker images, from crafting the perfect Dockerfile to leveraging Docker's robust CLI commands. We will delve into the world of container registries, with a focus on Docker Hub as the centr... </p> <br/> <br/>
+<p align="left">
+<a href="https://blogs.deeprajbaidya.co//automate-flutter-package-publishing" title="Streamlining Your Flutter Package Publishing Workflow: Automating with GitHub Actions🤯"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SyvsTmuuZyM/upload/297361cb2a199ababf3e3d88dfae07c5.jpeg" alt="Streamlining Your Flutter Package Publishing Workflow: Automating with GitHub Actions🤯" width="250px" align="right" /></a>
 <a href="https://blogs.deeprajbaidya.co//automate-flutter-package-publishing" title="Streamlining Your Flutter Package Publishing Workflow: Automating with GitHub Actions🤯"><strong>Streamlining Your Flutter Package Publishing Workflow: Automating with GitHub Actions🤯</strong></a>
 <br/> Have you ever experienced time-consuming difficulty manually publishing your Flutter packages? Do you wish there were a method to speed things up and eliminate human error? You're in luck if so! You may automate your package publishing procedure and ... </p> <br/> <br/>
 <p align="left">
-<a href="https://blogs.deeprajbaidya.co//add-neubrutalism-design-to-your-flutter-app" title="Add Neubrutalism Design to your Flutter App📱🔥."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680609250160/9c8ad56f-5f54-4ffb-8c4c-40f4737b4bc7.png" alt="Add Neubrutalism Design to your Flutter App📱🔥." width="250px" align="right" /></a>
+<a href="https://blogs.deeprajbaidya.co//add-neubrutalism-design-to-your-flutter-app" title="Add Neubrutalism Design to your Flutter App📱🔥."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680609250160/9c8ad56f-5f54-4ffb-8c4c-40f4737b4bc7.png" alt="Add Neubrutalism Design to your Flutter App📱🔥." width="250px" align="left" /></a>
 <a href="https://blogs.deeprajbaidya.co//add-neubrutalism-design-to-your-flutter-app" title="Add Neubrutalism Design to your Flutter App📱🔥."><strong>Add Neubrutalism Design to your Flutter App📱🔥.</strong></a>
 <br/> Image Credit: Dribble
 Neubrutalism? What's that !!
 Neubrutalism UI design is a popular style that has emerged in recent years, characterized by its use of simple, functional elements and a stripped-down aesthetic. It's an evolution of the Brutalist d... </p> <br/> <br/>
 <p align="left">
-<a href="https://blogs.deeprajbaidya.co//top-10-vs-code-extentions-sept-2022" title="Top 10 Vs Code  Extentions (sept. 2022)"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/gA396xahf-Q/upload/v1663443699117/crGLvCYKX.jpeg" alt="Top 10 Vs Code  Extentions (sept. 2022)" width="250px" align="left" /></a>
+<a href="https://blogs.deeprajbaidya.co//top-10-vs-code-extentions-sept-2022" title="Top 10 Vs Code  Extentions (sept. 2022)"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/gA396xahf-Q/upload/v1663443699117/crGLvCYKX.jpeg" alt="Top 10 Vs Code  Extentions (sept. 2022)" width="250px" align="right" /></a>
 <a href="https://blogs.deeprajbaidya.co//top-10-vs-code-extentions-sept-2022" title="Top 10 Vs Code  Extentions (sept. 2022)"><strong>Top 10 Vs Code  Extentions (sept. 2022)</strong></a>
 <br/> Almost all of us can agree that VS CODE is one of the best Code-Editor if not the BEST.
 Let's make this VS CODE experience better with adding some amazing Extensions which I use in my day to day work and most of these extensions can be used by develo... </p> <br/> <br/>
-<p align="left">
-<a href="https://blogs.deeprajbaidya.co//best-resources-to-learn-flutter-in-2022" title="Best Resources to Learn Flutter in 2022"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/Gll-v69L8iA/upload/v1662637330397/Y_o1oD14D.jpeg" alt="Best Resources to Learn Flutter in 2022" width="250px" align="right" /></a>
-<a href="https://blogs.deeprajbaidya.co//best-resources-to-learn-flutter-in-2022" title="Best Resources to Learn Flutter in 2022"><strong>Best Resources to Learn Flutter in 2022</strong></a>
-<br/> Are you someone thinking about Learning Flutter in 2022, if that's so then here's some of  the best resources which will help you to Master Flutter🥳
-This Blog Contains all the free as well as paid resources.🤘🔥
-LET'S GET STARTED
-Documentation:
-
-flu... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 # 📊 Stats:
