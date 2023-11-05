@@ -46,17 +46,26 @@ Let's make this VS CODE experience better with adding some amazing Extensions wh
   
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=deepraj02&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
+<td align="center">
+
+[![infamous's GitHub | Stats](https://stats.quine.sh/infamous/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=infamous)
+[![infamous's GitHub | Dependencies](https://stats.quine.sh/infamous/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=infamous)
+
 </td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepraj02&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://stats.quine.sh/infamous/topics-over-time?theme=dark" width="400" height="300" style="margin-right: 20px;">
+  <img src="https://stats.quine.sh/infamous/languages-over-time?theme=dark" width="400" height="300">
 </td>
 </tr>
 </table>
+
 <br />
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepraj02&theme=merko&hide_border=false" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepraj02&theme=merko&hide_border=false" width="300" height="100" />
 </p>
+
   
   
 <!--   
