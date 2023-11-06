@@ -63,7 +63,7 @@ Let's make this VS CODE experience better with adding some amazing Extensions wh
 
 <br />
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepraj02&theme=merko&hide_border=false" width="300" height="100" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepraj02&theme=merko&hide_border=false" width="800" height="600" />
 </p>
 
   
